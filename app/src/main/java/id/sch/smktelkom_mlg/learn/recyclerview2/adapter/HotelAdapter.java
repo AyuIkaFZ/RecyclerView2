@@ -49,6 +49,7 @@ public class HotelAdapter extends RecyclerView.Adapter<HotelAdapter.ViewHolder> 
 
         ImageView ivFoto;
         TextView tvJudul;
+        TextView aa;
 
         public ViewHolder(View itemView) {
             super(itemView);
